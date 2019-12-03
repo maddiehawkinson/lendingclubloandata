@@ -1,5 +1,4 @@
 # Lending Club Loan Data Case Study
-Created by: Madison Hawkinson
 
 A three part analysis including exploratory data analysis, business analysis and modeling using the Kaggle Lending Club Loan Data in Python.
 
