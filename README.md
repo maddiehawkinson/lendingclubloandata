@@ -3,11 +3,11 @@
 A three part analysis including exploratory data analysis, business analysis and modeling using the Kaggle Lending Club Loan Data in Python.
 
 ## Table of Contents
-Part 0a: Lending Club Loan Data
-Part 0b: Function Definition
-Part 1: Data Exploration and Evalaution
-Part 2: Business Analysis
-Part 3: Modeling
+* Part 0a: Lending Club Loan Data
+* Part 0b: Function Definition
+* Part 1: Data Exploration and Evalaution
+* Part 2: Business Analysis
+* Part 3: Modeling
 
 ## Part 0
 Explain the dataset using additional resources and define functions used through the analysis.
